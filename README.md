@@ -1,7 +1,7 @@
 # Super Woof!
 
 Imagem da proposta inicial:
-![Imagem da proposta inicial de Super Woof! apresentada no concurso da Coca Cola](example_layout.jpg)
+![Imagem da proposta inicial de Super Woof! apresentada no processo de seleção Trainee da Coca Cola](example_layout.jpg)
 
 ## Sobre o Jogo
 
