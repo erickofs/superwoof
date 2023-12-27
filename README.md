@@ -1,5 +1,8 @@
 # Super Woof!
 
+Imagem da proposta inicial:
+![Imagem da proposta inicial de Super Woof! apresentada no concurso da Coca Cola](example_layout.jpg)
+
 ## Sobre o Jogo
 
 Super Woof! é um jogo que segue o clássico enredo de jornada do herói. No entanto, neste jogo, o protagonista é um garoto e seu fiel cachorro, que embarcam em uma jornada para resgatar sua namorada raptada pelo Rei Fantasma que invadiu a terra. Os jogadores explorarão uma variedade de ambientes, desde subúrbios e cidades até fazendas e prédios de multinacionais, incluindo um ambiente de escritório. Todos os cenários são ricamente americanizados, proporcionando uma experiência única e envolvente.
